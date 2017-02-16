@@ -277,7 +277,7 @@ span.save_widget span.filename:hover {
 */
 
 div#notebook .text_cell_render {
-  color: #f8f8f8;
+  color: #bbbbbb;
 }
 
 .rendered_html li p {
